@@ -49,21 +49,7 @@ This project aims to help users stay consistent, motivated, and achieve their he
 	•	✅ Frontend UI built using HTML + Tailwind CSS
 	•	✅ Frontend connected to backend API
 	•	✅ Working prototype that generates fitness plans from user input
-
-# Note:
-The current model output may be repetitive or not fully structured because we are using a lightweight local model. This will be improved in the next phase by integrating a more advanced LLM (such as Llama) and refining the prompt for better formatting and quality.
-
-
-# Next Steps
-	•	Improve AI output quality through better prompt engineering
-	•	Integrate a more advanced LLM (Llama)
-	•	Improve UI/UX and formatting of results
-	•	Add input validation and error handling
-	•	Conduct user testing
-	•	Prepare final demo and presentation
-
-
-
+	
 # Demo
 	•	Colab Notebook:
 https://colab.research.google.com/drive/19_Ta7TMxgIITsovs1mTL7TqvEvd3XFJh?usp=sharing
