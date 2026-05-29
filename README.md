@@ -35,11 +35,10 @@ This project aims to help users stay consistent, motivated, and achieve their he
 
 
 # Team Members
-	•	Sintia Plasencia Diaz (Team Lead)
-Responsibilities: Prompt engineering, backend development (app.py), AI integration, testing
-	•	Lasiru Lochana Weerasuriya (Frontend Developer)
-Responsibilities: UI design, input form, results display, frontend-backend connection
-
+   * Sintia Plasencia Diaz (Team Lead)
+     <span style="color:grey">Responsibilities: Prompt engineering, backend development (app.py), testing</span>
+   * Lasiru Weerasuriya (Frontend Developer)
+     <span style="color:grey">Responsibilities: UI design, AI integration, input form, results display, frontend-backend connection</span>
 
 # Current Progress
 	•	✅ Project proposal completed
